@@ -1,0 +1,7 @@
+A pig script that goes through two patent data sets and
+finds the percentage of patents from each state that 
+reference patents in the same state. The two files are 
+raw patent data, and a file of patents that reference
+other patents i.e. (citing,cited)
+Using joins and other techniques, then end result is 
+achieved.
